@@ -61,20 +61,6 @@ Wait for processing and summarization.
 
 Ask questions about the video.
 
-Project Structure
-
-puch_ai_hackathon/
-  ├── app/                  # Main application scripts
-  │   └── video_rag_pipeline.py
-  ├── deployment/           # Deployment-related scripts
-  │   └── mcp_starter.py
-  ├── saved_audio/          # Temporary storage for processed audio
-  │   └── chunks/           # Audio chunks for transcription
-  ├── .env                   # Environment configuration
-  ├── pyproject.toml         # Project metadata and dependencies
-  ├── uv.lock                # Lock file for uv dependencies
-  ├── README.md              # Documentation
-
 Notes
 Transcription quality depends on audio clarity.
 
