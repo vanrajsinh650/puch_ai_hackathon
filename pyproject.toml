@@ -1,0 +1,14 @@
+[project]
+name = "puch-ai-hackathon"
+version = "0.1.0"
+dependencies = [
+    "google-generativeai>=0.8.5",
+    "pydub>=0.25.1",
+    "python-dotenv>=1.1.1",
+    "qdrant-client>=1.15.1",
+    "sentence-transformers>=5.1.0",
+    "sync>=1.0.0",
+    "torch>=2.8.0",
+    "transformers>=4.55.0",
+    "yt-dlp>=2025.8.11",
+]
